@@ -5,6 +5,6 @@ int main() {
     std::cout << "hhhhhHello, World!\n";
     std::cout << "hhhhhdddHello, World!\n";
     std::cout << "hhhhhddddddggiddddHello, World!\n";
-    std::cout << "hhhhhddddddggiddddHello, World!\n";
+    std::cout << "hhhhhdddddHello, World!\n";
     return 0;
 }
